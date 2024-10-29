@@ -1,0 +1,26 @@
+h1 span{
+    font-size: 60px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.link{
+    color: rgb(43, 120, 219);
+    font-size: 3rem;
+}
+.first{
+    background-image: url(./bg1.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.sec{
+    background-image: url(./bg2.jpg);
+    color:aliceblue;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
